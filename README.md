@@ -8,3 +8,5 @@
 - 📫 How to reach me: Mail me at **vatshayan007@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always reply mails in minutes
+- 💬 Motivation: Happy Students, Employers, Startups and companies Praise me after taking help from me. 
+- 🌱 Ask Freely! 
