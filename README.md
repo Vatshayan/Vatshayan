@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm CEO of MLbox and ProjectsPro(https://projectspro.in/) 
+- ⚡ I'm CEO of MLbox and [ProjectsPro](https://projectspro.in/)
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
