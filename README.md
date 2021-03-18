@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm CEO of MLbox and [ProjectsPro](https://projectspro.in/)
+- ⚡ I'm CEO of MLbox and **[ProjectsPro](https://projectspro.in/)**
 - ⚡ I'm curently Software Engineer at IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
@@ -15,4 +15,4 @@
 -    WhatsApp: +91 9310631437
 -    Gmail: **vatshayan007@gmail.com**
 
-- Visit [ProjectsPro](https://projectspro.in/) for Projects.
+- Visit **[ProjectsPro](https://projectspro.in/)** for Projects.
