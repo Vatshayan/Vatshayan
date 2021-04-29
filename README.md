@@ -12,7 +12,6 @@
 - 📫 How to reach me
 -    WhatsApp: +91 9310631437
 -    Gmail: **vatshayan007@gmail.com**
-- Visit **[ProjectsPro](https://projectspro.in/)** for Projects.
 
 <img align="left" alt="Vatshayan Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatshayan&show_icons=true&hide_border=true" />
 
