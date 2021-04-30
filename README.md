@@ -15,7 +15,7 @@
 
 <div style="padding: 20px 0px;"><img src="./qwerty.png" alt=""></div>
 
-<h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=vatshayan&label=Profile%20views&color=0e75b6&style=flat" alt="vatshayan" /> </p></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatshayan&label=Profile%20views&color=0e75b6&style=flat" alt="vatshayan" /> </p>
 
 
 
@@ -29,4 +29,4 @@
   </tr>
  <table>
 
-Student Got Helped from me: 122 (Till 30 April 2021)
+**Students Got Helped from me: 122 (Till 30 April 2021)**
