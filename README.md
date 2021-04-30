@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h3 align="center">I'm a Developer from India ❤</h3>
 
 - ⚡ I'm curently Software Engineer at IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
@@ -21,6 +22,8 @@
 
 </p>
 
+### 📈 Github Stats
+
 <table width="100%">
   <tr>
     <td>
@@ -28,6 +31,10 @@
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatshayan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/> </td>
   </tr>
  <table>
+
+### **Activity Graph**
+
+[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=vatshayan&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Students Got Helped from me: 122 (Till 30 April 2021)**
 
