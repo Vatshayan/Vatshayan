@@ -13,9 +13,9 @@
 -    WhatsApp: +91 9310631437
 -    Gmail: **vatshayan007@gmail.com**
 
-<div style="padding: 20px 0px;"><img src="./qwerty.png" alt="aaaa"></div>
+<div style="padding: 20px 0px;"><img src="./qwerty.png" alt=""></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatshayan&label=Profile%20views&color=0e75b6&style=flat" alt="vatshayan" /> </p>
+<h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=vatshayan&label=Profile%20views&color=0e75b6&style=flat" alt="vatshayan" /> </p></h2>
 
 
 
@@ -28,3 +28,5 @@
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatshayan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/> </td>
   </tr>
  <table>
+
+Student Got Helped from me: 122 (Till 30 April 2021)
