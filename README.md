@@ -1,9 +1,5 @@
 ### Hi there 👋
-<h3 align="center" style="font-family:impact;"> Hi there 👋</h3>
 
-<p align="center">
-I'm Shivam Vatshayan
-</p>
 - ⚡ I'm curently Software Engineer at IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
