@@ -36,7 +36,7 @@
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=vatshayan&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Students Got Helped from me: 122 (Till 30 April 2021)**
+**Students Got Helped from me: 152 (Till 30 April 2021)**
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
