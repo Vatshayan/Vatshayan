@@ -1,7 +1,7 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
 
-- ⚡ I'm curently Software Engineer at IT MNC.
+- ⚡ I'm curently Software Engineer at Top IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
@@ -36,7 +36,7 @@
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=vatshayan&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Students Got Helped from me: 201 (Till 13 June 2021)**
+**Students Got Helped from me: 205 (Till 19 June 2021)**
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
