@@ -34,9 +34,6 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
   </tr>
  <table>
 
-### **Activity Graph**
-
-[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=vatshayan&theme=github&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 **Students Got Helped from me: 321 (Till 25 July 2021)**
 
