@@ -17,8 +17,6 @@
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
 
-###    Watch my contribution graph get eaten by the snake 🐍
-
 
 https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-928b-5c30667010d3.mp4
 
