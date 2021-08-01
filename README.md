@@ -1,6 +1,8 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
 
+<img align="right" alt="GIF" height="300px" src='https://github.com/Vatshayan/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
+
 - ⚡ I'm curently Software Engineer at Top IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
@@ -13,6 +15,9 @@
 - 📫 How to reach me
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
+
+###    Watch my contribution graph get eaten by the snake 🐍
+
 
 https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-928b-5c30667010d3.mp4
 
