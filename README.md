@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 
 
-- ⚡ I'm curently Software Engineer at Top IT MNC.
+- ⚡  I'm curently Software Engineer at Top IT MNC.
 - 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
 - 🌱 I’m currently learning Blockchain and .NET 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I always reply mails in minutes
 - 😄 Motivation: Happy Students, Employers, Startups and companies Praise me after taking help from me. 
 - 🌱 Ask Freely! 
-- Projects Help: [**LINK**](https://computerscienceproject.com/)
+-  **Projects Help: [**LINK**](https://vatshayan007.wixsite.com/website)**
 - 📫 How to reach me
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
  <table>
 
 
-**Students Got Helped from me: 321 (Till 25 July 2021)**
+**Students Got Helped from me: 426 (Till 21 August 2021)**
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
