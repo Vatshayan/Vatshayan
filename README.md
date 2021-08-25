@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I always reply mails in minutes
 - 😄 Motivation: Happy Students, Employers, Startups and companies Praise me after taking help from me. 
 - 🌱 Ask Freely! 
--  **Projects Help: [**LINK**](https://vatshayan007.wixsite.com/website)**
+-  **Projects Help: [**LINK**](https://www.cse-projects.com)**
 - 📫 How to reach me
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
@@ -57,6 +57,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
 
 GMAIL : **vatshayan007@gmail.com** (24*7 Online)
    
-### Youtube : https://youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ 
+### Youtube : [LINK](https://youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
+### CSE Projects: [LINK](https://www.cse-projects.com)
 
 
