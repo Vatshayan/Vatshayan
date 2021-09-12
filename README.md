@@ -1,11 +1,13 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Developer from India ❤</h3>
+<h3 align="center">I'm a Developer from India 🇮🇳 ❤</h3>
+<h3 align="center">I m knowns as Dr.Project😄 </h3>
+
 
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 
 
 - ⚡  I'm curently Software Engineer at Top IT MNC.
-- 🔭 I’m currently working on Machine Learning, Data Science, Cryptography & Communication Security
+- 🔭 I’m currently working on Machine Learning, Data Science & Cryptography
 - 🌱 I’m currently learning Blockchain and .NET 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
@@ -51,7 +53,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
  <table>
 
 
-**Students Got Helped from me: 542 (Till 21 August 2021)**
+**Students Got Helped from me: 602 (Till 10 Sept 2021)**
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
