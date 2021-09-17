@@ -19,7 +19,7 @@
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
 
-### Support Me 🙏
+### Support Me if you can🙏
 
 <a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
 <img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
