@@ -19,7 +19,7 @@
 -    WhatsApp: **+91 9310631437** (Helping 24*7)
 -    Gmail: **vatshayan007@gmail.com**
 
-### Support Me if you can🙏
+ <h3 align="left">Support:</h3>
 
 <a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
 <img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
@@ -29,6 +29,7 @@
 </a>
 
 
+<p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
 
 ### My Portfolio Deck🔭
 
@@ -52,8 +53,6 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
   </tr>
  <table>
    
-   <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
    
 **Students Got Helped from me: 602 (Till 10 Sept 2021)**
 
