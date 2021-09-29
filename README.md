@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
  <table>
    
    
-**Students Got Helped from me: 602 (Till 10 Sept 2021)**
+**Students Got free Guidance from me: 612 (Till 29 Sept 2021)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
