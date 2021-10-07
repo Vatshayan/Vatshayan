@@ -22,7 +22,7 @@
  <h3 align="left">Support:</h3>
 
 1. 
-<a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
+<a href="https://paypal.me/Vatshayan?locale.x=en_GB">
  
 <img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
 </a> 
