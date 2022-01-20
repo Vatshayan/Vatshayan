@@ -7,8 +7,8 @@
 
 
 - ⚡  I'm curently Software Engineer at Top IT MNC.
-- 🔭 I’m currently working on Machine Learning, Data Science & Cryptography
-- 🌱 I’m currently learning Blockchain and .NET 
+- 🔭 I’m currently working on Blockchain, Data Science & Cryptography
+- 🌱 I’m currently learning Blockchain NFT and .NET 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
