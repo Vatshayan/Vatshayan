@@ -18,11 +18,9 @@
 - 📫 How to reach me
 -    WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 -    Gmail: **vatshayan007@gmail.com**
+-    Linkedin: **[LINK](https://www.linkedin.com/in/shivam-vatshayan/)**
 
  <h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
-
 
 ### My Portfolio Deck🔭
 
@@ -51,13 +49,17 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
-GMAIL : **vatshayan007@gmail.com** (24*7 Online)
+### MAIL : **vatshayan007@gmail.com** (24*7 Online)
    
-### Youtube : [LINK](https://youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
+### Youtube Channel : [LINK](https://youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
   
 ### CSE Projects: [LINK](https://www.cse-projects.com)
   
 ### Projects Blog: [LINK](https://computerscienceproject.com)  
+  
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+  
+### Linkedin: **[LINK](https://www.linkedin.com/in/shivam-vatshayan/)**
   
 
 Thank you so much for visiting😄
