@@ -19,7 +19,7 @@
 -    WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 -    Gmail: **vatshayan007@gmail.com**
 -    Linkedin: **[LINK](https://www.linkedin.com/in/shivam-vatshayan/)**
-
+-    Resume :  **[LINK](https://zety.com/profile/shivam-vatshayan)**
  <h3 align="left">Support:</h3>
 
 ### My Portfolio Deck🔭
