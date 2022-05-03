@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
   
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Telegram: **LINK](https://t.me/Final_Year_Project_Developer)**
+### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**
   
 ### Twitter: [LINK](https://twitter.com/vats_Superstar)
   
