@@ -6,9 +6,9 @@
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
 
 
-- ⚡  I'm curently Software Engineer at Top IT MNC.
+- ⚡  I'm curently Blockchain Developer at Crypto Exchange MNC
 - 🔭 I’m currently working on Blockchain, Data Science & Cryptography
-- 🌱 I’m currently learning Blockchain NFT and .NET 
+- 🌱 I’m currently learning Blockchain NFT and React Js 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
