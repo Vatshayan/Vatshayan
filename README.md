@@ -2,17 +2,13 @@
 <h3 align="center">I'm a Developer from India 🇮🇳❤</h3>
 <h3 align="center">I m known as Dr.Project😄 </h3>
 
-
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' />
-
-
 - ⚡  I'm curently Blockchain Developer at Crypto Exchange MNC
-- 🔭 I’m currently working on Blockchain, Data Science & Cryptography
-- 🌱 I’m currently learning Blockchain NFT and React Js 
+- 🔭 I’m currently working on Blockchain and Web3 Developement
+- 🌱 I’m currently learning Blockchain NFT and Node.js 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
-- 😄 Motivation: Happy Students, Employers, Startups and companies Praise me after taking help from me. 
+- 😄 Motivation: Happy Students, Employers and Startups Praise me after taking help from me. 
 - 🌱 Ask Freely! 
 
 ## 📫 How to reach me
@@ -46,7 +42,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
  <table>
    
    
-**Students Got free Guidance from me: 531 (Till 24 May 2022)** 
+**Students Got free Guidance from me: 541 (Till 24 May 2022)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
