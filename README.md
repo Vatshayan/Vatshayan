@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
   
 ### CSE Projects: [LINK](https://www.cse-projects.com)
   
-### Projects List: [LINK](https://computerscienceproject.com)  
+### Projects List: [LINK](https://www.computer-science-project.in/)  
   
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
