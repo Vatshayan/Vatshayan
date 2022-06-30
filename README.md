@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
 
 ### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**
   
-### Twitter: [LINK](https://twitter.com/vats_Superstar)
+### Twitter: [LINK](https://twitter.com/ShivamVatshayan)
   
 
 Thank you so much for visiting😄
