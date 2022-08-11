@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
    
 ### Youtube Channel : [LINK](https://youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
   
-### Official Project Help Website: [LINK](https://www.cse-projects.com)
+### Official Project Help Website: [LINK](https://www.finalproject.in/)
   
 ###  1000 Projects List: [LINK](https://www.computer-science-project.in/)  
   
