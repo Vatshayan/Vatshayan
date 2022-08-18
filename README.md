@@ -12,7 +12,7 @@
 - 🌱 Ask Freely! 
 
 ## 📫 How to reach me
--    WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+-    WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 -    Gmail: **vatshayan007@gmail.com**
 
  <h3 align="left">Support:</h3>
@@ -54,11 +54,8 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
   
 ###  1000 Projects List: [LINK](https://www.computer-science-project.in/)  
   
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**
-  
-### Twitter: [LINK](https://twitter.com/ShivamVatshayan)
-  
+### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**  
 
 Thank you so much for visiting😄
