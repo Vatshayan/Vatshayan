@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
  <table>
    
    
-**Students Got free Guidance from me: 611 (Till 1 Sept 2022)** 
+**Students Got free Guidance from me: 631 (Till 11 Sept 2022)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
