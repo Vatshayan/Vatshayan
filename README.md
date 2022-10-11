@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer from India 🇮🇳❤</h3>
 <h3 align="center">I m known as Dr.Project😄 </h3>
 
-- ⚡  I'm curently Blockchain Developer at Crypto Exchange MNC
+- ⚡  I'm curently Blockchain Developer at Crypto Exchange Company
 - 🔭 I’m currently working on Blockchain and Web3 Developement
 - 🌱 I’m currently learning Blockchain NFT and Node.js 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
@@ -20,6 +20,11 @@
  How About Coffee? : [LINK](https://www.buymeacoffee.com/Vatshayan)
 
 ### My Portfolio Deck🔭
+
+
+https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-a947-8bfa4f5fcd87.mov
+
+
 
 
 <div style="padding: 20px 0px;"><img src="./qwerty.png" alt=""></div>
