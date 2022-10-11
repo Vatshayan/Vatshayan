@@ -21,7 +21,6 @@
 
 ### My Portfolio Deck🔭
 
-https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-928b-5c30667010d3.mp4
 
 <div style="padding: 20px 0px;"><img src="./qwerty.png" alt=""></div>
 
