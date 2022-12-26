@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
  <table>
    
    
-**Students Got free Guidance from me: 507 (Till 21 Dec 2022)** 
+**Students Got free Guidance from me: 601 (Till 27 Dec 2022)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
