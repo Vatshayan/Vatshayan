@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
  <table>
    
    
-**Students Got free Guidance from me: 601 (Till 27 Dec 2022)** 
+**Students Got Guidance from me: 601 (Till 29 Dec 2022)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
 ###  1000 Projects List: [LINK](https://www.computer-science-project.in/)  
   
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+  
+### Medium Blogs : [LINK](https://vatshayan.medium.com)
 
 ### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**  
 
