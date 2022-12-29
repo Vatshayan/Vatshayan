@@ -12,8 +12,8 @@
 - 🌱 Ask Freely! 
 
 ## 📫 How to reach me
--    WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
--    Gmail: **vatshayan007@gmail.com**
+### 💬    WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### 📧   Gmail: **vatshayan007@gmail.com**
 
  <h3 align="left">Support:</h3>
  
@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
   
 ### Official Project Help Website: [LINK](https://www.finalproject.in/)
   
-###  1000 Projects List: [LINK](https://www.computer-science-project.in/)  
+###  1000 Projects Website : [LINK](https://www.computer-science-project.in/)  
   
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
   
