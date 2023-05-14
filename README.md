@@ -16,10 +16,6 @@
 ### 📧   Gmail: **vatshayan007@gmail.com**
 ### Youtube Channel : [Watch](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
 
- <h3 align="left">Support:</h3>
- 
- How About Coffee? : [LINK](https://www.buymeacoffee.com/Vatshayan)
-
 ### My Portfolio Deck🔭
 
 
