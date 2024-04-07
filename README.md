@@ -4,7 +4,7 @@
 
 - ⚡  I'm curently Blockchain Developer at Crypto Exchange Company
 - 🔭 I’m currently working on Blockchain and Web3 Developement
-- 🌱 I’m currently learning Blockchain NFT and Node.js 
+- 🌱 I’m currently learning DevOps and Node.js 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
