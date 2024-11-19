@@ -56,9 +56,9 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
 ###  1000 Projects Website : [LINK](https://www.computer-science-project.in/)  
   
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Instagram: **[LINK](https://www.instagram.com/computer_science_project_hub/)**
   
 ### Medium Blogs : [LINK](https://vatshayan.medium.com)
-
-### Telegram: **[LINK](https://t.me/Final_Year_Project_Developer)**  
 
 Thank you so much for visiting😄
