@@ -14,7 +14,9 @@
 ## 📫 How to reach me
 ### 💬    WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 ### 📧   Gmail: **vatshayan007@gmail.com**
-### Youtube Channel : [Watch](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ)
+### Youtube Channel: [Watch](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ) 
+### Webiste: [Final-Project](https://www.finalproject.in/)
+### Instagram: [CHECK](https://www.instagram.com/computer_science_project_hub/)
 
 ### My Portfolio Deck🔭
 
