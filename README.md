@@ -12,7 +12,7 @@
 - 🌱 Ask Freely! 
 
 ## 📫 How to reach me
-### 💬    WhatsApp: **+91 9220924483** (Helping 24*7) **[CHAT](https://wa.me/9220924483)** 
+### 💬    WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 ### 📧   Gmail: **vatshayan007@gmail.com**
 ### Youtube Channel: [Watch](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ) 
 ### Webiste: [Final-Project](https://www.finalproject.in/)
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
  <table>
    
    
-**Students Got Guidance from me: 2103 (Till 31 Jan 2025)** 
+**Students Got Guidance from me: 2103 (Till 28 Feb 2025)** 
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
   
 ###  1000 Projects Website : [LINK](https://www.computer-science-project.in/)  
   
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/9220924483)** 
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/9310631437)** 
 
 ### Instagram: **[LINK](https://www.instagram.com/computer_science_project_hub/)**
   
