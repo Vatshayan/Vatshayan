@@ -2,9 +2,9 @@
 <h3 align="center">I'm a Developer from India 🇮🇳❤</h3>
 <h3 align="center">I m known as Dr.Project😄 </h3>
 
-- ⚡  I'm curently Blockchain Developer at Crypto Exchange Company
+- ⚡  I'm Software Engineer & Running IT Services Company in Delhi, India
 - 🔭 I’m currently working on Blockchain and Web3 Developement
-- 🌱 I’m currently learning DevOps and Node.js 
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
@@ -45,9 +45,7 @@ https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-
  <table>
    
    
-**Students Got Guidance from me: 2103 (Till 28 Feb 2025)** 
-
-**Hope I get a Chance to Help you too 🙏🙏**
+**Hope I get a Chance to Guide & Help you too 🙏🙏**
 
 ### MAIL : **vatshayan007@gmail.com** (24*7 Online)
    
