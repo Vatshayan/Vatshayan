@@ -20,7 +20,7 @@
 ### My Portfolio Deck🔭
 
 
-https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-a947-8bfa4f5fcd87.mov
+[https://user-images.githubusercontent.com/28294942/195195237-78a8a103-7f7b-4068-a947-8bfa4f5fcd87.mov](https://github.com/user-attachments/assets/116c9806-e518-4c66-9626-cee143783162)
 
 
 
