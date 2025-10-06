@@ -15,7 +15,6 @@
 ### 📲 Contact (WhatsApp, Email, Call): [Contact Me](https://www.contactvatshayan.com)
 ### Youtube Channel: [Watch](https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ) 
 ### Website: [Final-Project](https://www.finalproject.in/)
-### Instagram: [CHECK](https://www.instagram.com/finalproject.in/)
 
 ### My Portfolio Deck🔭
 
@@ -52,13 +51,9 @@
   
 ### Official Project Help Website: [LINK](https://www.finalproject.in/)
   
-###  1000 Projects Website : [LINK](https://www.computer-science-project.in/)  
-
 ### Explore Projects : [LINK](https://buyprojectsonline.in/)
   
 ### 📲 Contact (WhatsApp, Email, Call): [Contact Me](https://www.contactvatshayan.com)
-
-### Instagram: [CHECK](https://www.instagram.com/finalproject.in/)
   
 ### Medium Blogs : [LINK](https://vatshayan.medium.com)
 
