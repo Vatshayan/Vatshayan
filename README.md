@@ -54,6 +54,8 @@
 ### Explore Projects : [LINK](https://buyprojectsonline.in/)
   
 ### 📲 Contact (WhatsApp, Email, Call): [Contact Me](https://www.contactvatshayan.com)
+
+### Instagram: [Check](https://www.instagram.com/finalproject.in/)
   
 ### Medium Blogs : [LINK](https://vatshayan.medium.com)
 
