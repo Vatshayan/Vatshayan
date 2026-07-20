@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vatshayan&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vatshayan&label=STUDENT+GUIDED&color=00C853&style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Status-ONLINE-success?style=for-the-badge"/>
 
