@@ -307,10 +307,6 @@ https://github.com/user-attachments/assets/116c9806-e518-4c66-9626-cee143783162
 
 📩 **Email:** vatshayan007@gmail.com
 
-🌐 **Website:** https://www.vatshayan.com
-
-🚀 **Company:** https://www.vatshayan.com
-
 📚 **Projects:** https://www.finalproject.in
 
 📞 **Contact:** https://www.contactvatshayan.com
