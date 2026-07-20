@@ -57,8 +57,8 @@
 - 🌐 Shopify, WordPress & MERN Stack Expert
 - 📱 Meta Ads & Google Ads Specialist
 - 🤖 AI, Blockchain & Python Developer
-- 🎓 Guided **2400+ Students**
-- 🌍 Developed **700+ Websites**
+- 🎓 Guided **3600+ Students**
+- 🌍 Developed **400+ Websites**
 - 📈 Served **122+ Digital Marketing Clients**
 - 🚀 Building innovative digital solutions every day.
 
@@ -76,16 +76,12 @@
 <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:info@contactvatshayan.com">
+<a href="mailto:vatshayan007@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shivam-vatshayan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vatshayan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
