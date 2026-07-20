@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer • Website Designer • Founder of Vatshayan Technologies 🇮🇳
+🚀 Software Engineer • Website Designer • CEO of Vatshayan Technologies 🇮🇳
 </h3>
 
 <p align="center">
@@ -98,7 +98,6 @@
 - 📱 Available on **WhatsApp 24×7**
 - ⚡ I usually reply within minutes.
 
----
 ---
 
 # 🚀 Achievements
@@ -252,9 +251,8 @@
 </a>
 
 </p>
-# 🌟 Featured Portfolio
 
-🎥 Portfolio Video
+# 🎥 Portfolio Video
 
 https://github.com/user-attachments/assets/116c9806-e518-4c66-9626-cee143783162
 
