@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="[https://www.youtube.com/@computerscienceproject">
+<a href="https://www.youtube.com/@computerscienceproject">
 <img src="https://img.shields.io/badge/YouTube-Final%20Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
