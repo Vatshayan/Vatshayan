@@ -3,11 +3,13 @@
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer • Full Stack Developer • Website Designer • Founder of Vatshayan Technologies 🇮🇳
+🚀 Software Engineer • Website Designer • Founder of Vatshayan Technologies 🇮🇳
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Website+Designer;Founder+of+Vatshayan+Technologies;700%2B+Websites+Developed;2400%2B+Students+Guided;122%2B+Digital+Marketing+Clients;Blockchain+Developer;AI+%7C+Python+Developer;Always+Building+Something+Awesome!" alt="Typing SVG"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Engineer;CEO+of+Vatshayan+Technologies;Full+Stack+Developer" alt="Typing SVG"/>
+</p>
 </p>
 
 <p align="center">
