@@ -1,20 +1,20 @@
 <h1 align="center">
-Hi 👋, I'm Shivam Vatshayan
+  Hi 👋, I'm Shivam Vatshayan
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack Developer | Website Designer | Founder of Vatshayan Technologies 🇮🇳
+🚀 Software Engineer • Full Stack Developer • Website Designer • Founder of Vatshayan Technologies 🇮🇳
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=1700&pause=700&color=00FF66&center=true&vCenter=true&repeat=true&width=1100&lines=Software+Engineer;Full+Stack+Developer;Website+Designer;Founder+of+Vatshayan+Technologies;700%2B+Websites+Developed;2400%2B+Students+Guided;122%2B+Digital+Marketing+Clients;Always+Building+Something+Awesome+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Website+Designer;Founder+of+Vatshayan+Technologies;700%2B+Websites+Developed;2400%2B+Students+Guided;122%2B+Digital+Marketing+Clients;Blockchain+Developer;AI+%7C+Python+Developer;Always+Building+Something+Awesome!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=vatshayan&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🟢-ONLINE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-ONLINE-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/vatshayan?label=Followers&style=for-the-badge"/>
 
@@ -25,16 +25,68 @@ Hi 👋, I'm Shivam Vatshayan
 <p align="center">
 
 <a href="https://wa.me/919310631437">
-<img src="https://img.shields.io/badge/💬%20WhatsApp-%2B91%209310631437-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-+91%209310631437-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/⚡%20Status-Online%2024×7-brightgreen?style=for-the-badge"/>
+<a href="https://contactvatshayan.com">
+<img src="https://img.shields.io/badge/Website-contactvatshayan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/🚀%20Response-Fast%20Reply-blue?style=for-the-badge"/>
+<a href="https://github.com/vatshayan">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="[https://www.youtube.com/@computerscienceproject">
+<img src="https://img.shields.io/badge/YouTube-Final%20Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </p>
 
 ---
+
+## 💫 About Me
+
+- 💼 Founder of **Vatshayan Technologies**
+- 💻 Full Stack Website Developer
+- 🌐 Shopify, WordPress & MERN Stack Expert
+- 📱 Meta Ads & Google Ads Specialist
+- 🤖 AI, Blockchain & Python Developer
+- 🎓 Guided **2400+ Students**
+- 🌍 Developed **700+ Websites**
+- 📈 Served **122+ Digital Marketing Clients**
+- 🚀 Building innovative digital solutions every day.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://contactvatshayan.com">
+<img src="https://img.shields.io/badge/Website-Visit_Now-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919310631437">
+<img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:info@contactvatshayan.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-vatshayan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vatshayan">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 # 👨‍💻 About Me
 
