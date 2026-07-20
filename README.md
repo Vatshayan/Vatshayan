@@ -287,12 +287,12 @@ https://github.com/user-attachments/assets/116c9806-e518-4c66-9626-cee143783162
 <img src="https://img.shields.io/badge/Contact-Now-red?style=for-the-badge"/>
 </a>
 
-<a href="https://www.youtube.com/@finalproject">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
+<a href="https://www.youtube.com/@computerscienceproject">
+<img src="https://img.shields.io/badge/YouTube-Final%20Project-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/finalproject.in">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://instagram.com/finalproject.in" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/company/vatshayantechnologies">
